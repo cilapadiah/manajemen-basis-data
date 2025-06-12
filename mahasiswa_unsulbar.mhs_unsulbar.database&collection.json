@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68494218287079fec5e3630f"
+  },
+  "nama": "Arsila Nurfadiah",
+  "nim": "D0222021",
+  "program_studi": "Teknik elektro"
+},
+{
+  "_id": {
+    "$oid": "68497121287079fec5e3633e"
+  },
+  "nama": "Firman Hidayat",
+  "nim": "210101001",
+  "program_studi": "Teknik Informatika"
+},
+{
+  "_id": {
+    "$oid": "684970ca287079fec5e3633e"
+  },
+  "nama": "Arsila Putri",
+  "nim": "210101002",
+  "program_studi": "Sistem Informasi"
+},
+{
+  "_id": {
+    "$oid": "684970ca287079fec5e3633f"
+  },
+  "nama": "Budi Santoso",
+  "nim": "210101003",
+  "program_studi": "Teknik Komputer"
+}]
